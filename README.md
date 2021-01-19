@@ -1,5 +1,8 @@
 # Agora Flutter Quickstart
 
+Here's the original link to the repo
+https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart
+
 This tutorial describes how to create an Agora account and build a sample app with Agora using [Flutter](https://flutter.io/).
 
 ## Other Languages： 
